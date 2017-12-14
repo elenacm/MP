@@ -1,0 +1,3 @@
+data/icon_BIN.pgm
+data/grises.txt
+data/salida.txt
