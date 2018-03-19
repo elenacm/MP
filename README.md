@@ -1,6 +1,6 @@
 # MP
 
-Prácticas resueltas
+Prácticas resueltas y ejercicios de exámenes anteriores
 
 Curso 2016-2017
 
